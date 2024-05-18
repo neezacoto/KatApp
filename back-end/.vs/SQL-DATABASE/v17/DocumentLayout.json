@@ -1,0 +1,161 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\gwcko\\OneDrive\\Desktop\\CS392\\mini-research\\christians-fragment\\SQL-DATABASE\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\gwcko\\OneDrive\\Desktop\\CS392\\mini-research\\christians-fragment\\HelloWorldReactNative\\components\\Scan.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1FC89CD3-F592-4E07-B621-66BAC9CCC1E6}|SQL-DATABASE\\SQL-DATABASE.csproj|c:\\users\\gwcko\\onedrive\\desktop\\cs392\\mini-research\\christians-fragment\\sql-database\\sql-database\\controllers\\scancontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1FC89CD3-F592-4E07-B621-66BAC9CCC1E6}|SQL-DATABASE\\SQL-DATABASE.csproj|solutionrelative:sql-database\\controllers\\scancontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\gwcko\\OneDrive\\Desktop\\CS392\\mini-research\\christians-fragment\\HelloWorldReactNative\\App.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\gwcko\\OneDrive\\Desktop\\CS392\\mini-research\\tk-fragment\\ProductSearch-demo\\ProductSearch-demo\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1FC89CD3-F592-4E07-B621-66BAC9CCC1E6}|SQL-DATABASE\\SQL-DATABASE.csproj|c:\\users\\gwcko\\onedrive\\desktop\\cs392\\mini-research\\christians-fragment\\sql-database\\sql-database\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1FC89CD3-F592-4E07-B621-66BAC9CCC1E6}|SQL-DATABASE\\SQL-DATABASE.csproj|solutionrelative:sql-database\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\gwcko\\OneDrive\\Desktop\\CS392\\mini-research\\hams-fragment\\barcode\\barcode\\Form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1FC89CD3-F592-4E07-B621-66BAC9CCC1E6}|SQL-DATABASE\\SQL-DATABASE.csproj|c:\\users\\gwcko\\onedrive\\desktop\\cs392\\mini-research\\christians-fragment\\sql-database\\sql-database\\controllers\\helloworldcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1FC89CD3-F592-4E07-B621-66BAC9CCC1E6}|SQL-DATABASE\\SQL-DATABASE.csproj|solutionrelative:sql-database\\controllers\\helloworldcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\gwcko\\OneDrive\\Desktop\\CS392\\mini-research\\christians-fragment\\HelloWorldReactNative\\app.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 214,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Scan.tsx",
+              "DocumentMoniker": "C:\\Users\\gwcko\\OneDrive\\Desktop\\CS392\\mini-research\\christians-fragment\\HelloWorldReactNative\\components\\Scan.tsx",
+              "RelativeDocumentMoniker": "..\\HelloWorldReactNative\\components\\Scan.tsx",
+              "ToolTip": "C:\\Users\\gwcko\\OneDrive\\Desktop\\CS392\\mini-research\\christians-fragment\\HelloWorldReactNative\\components\\Scan.tsx",
+              "RelativeToolTip": "..\\HelloWorldReactNative\\components\\Scan.tsx",
+              "ViewState": "AQIAAAIAAAAAAAAAAAAwwBQAAAAzAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2024-04-13T17:18:46.913Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ScanController.cs",
+              "DocumentMoniker": "C:\\Users\\gwcko\\OneDrive\\Desktop\\CS392\\mini-research\\christians-fragment\\SQL-DATABASE\\SQL-DATABASE\\Controllers\\ScanController.cs",
+              "RelativeDocumentMoniker": "SQL-DATABASE\\Controllers\\ScanController.cs",
+              "ToolTip": "C:\\Users\\gwcko\\OneDrive\\Desktop\\CS392\\mini-research\\christians-fragment\\SQL-DATABASE\\SQL-DATABASE\\Controllers\\ScanController.cs",
+              "RelativeToolTip": "SQL-DATABASE\\Controllers\\ScanController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACMAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-13T17:21:20.21Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "App.tsx",
+              "DocumentMoniker": "C:\\Users\\gwcko\\OneDrive\\Desktop\\CS392\\mini-research\\christians-fragment\\HelloWorldReactNative\\App.tsx",
+              "RelativeDocumentMoniker": "..\\HelloWorldReactNative\\App.tsx",
+              "ToolTip": "C:\\Users\\gwcko\\OneDrive\\Desktop\\CS392\\mini-research\\christians-fragment\\HelloWorldReactNative\\App.tsx",
+              "RelativeToolTip": "..\\HelloWorldReactNative\\App.tsx",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2024-04-13T17:27:29.393Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\gwcko\\OneDrive\\Desktop\\CS392\\mini-research\\tk-fragment\\ProductSearch-demo\\ProductSearch-demo\\Program.cs",
+              "RelativeDocumentMoniker": "..\\..\\tk-fragment\\ProductSearch-demo\\ProductSearch-demo\\Program.cs",
+              "ToolTip": "C:\\Users\\gwcko\\OneDrive\\Desktop\\CS392\\mini-research\\tk-fragment\\ProductSearch-demo\\ProductSearch-demo\\Program.cs",
+              "RelativeToolTip": "..\\..\\tk-fragment\\ProductSearch-demo\\ProductSearch-demo\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAEAAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-16T10:20:58.195Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\gwcko\\OneDrive\\Desktop\\CS392\\mini-research\\hams-fragment\\barcode\\barcode\\Form1.cs",
+              "RelativeDocumentMoniker": "..\\..\\hams-fragment\\barcode\\barcode\\Form1.cs",
+              "ToolTip": "C:\\Users\\gwcko\\OneDrive\\Desktop\\CS392\\mini-research\\hams-fragment\\barcode\\barcode\\Form1.cs",
+              "RelativeToolTip": "..\\..\\hams-fragment\\barcode\\barcode\\Form1.cs",
+              "ViewState": "AQIAAM8AAAAAAAAAAAAkwHQAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-13T19:21:03.854Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "HelloWorldController.cs",
+              "DocumentMoniker": "C:\\Users\\gwcko\\OneDrive\\Desktop\\CS392\\mini-research\\christians-fragment\\SQL-DATABASE\\SQL-DATABASE\\Controllers\\HelloWorldController.cs",
+              "RelativeDocumentMoniker": "SQL-DATABASE\\Controllers\\HelloWorldController.cs",
+              "ToolTip": "C:\\Users\\gwcko\\OneDrive\\Desktop\\CS392\\mini-research\\christians-fragment\\SQL-DATABASE\\SQL-DATABASE\\Controllers\\HelloWorldController.cs",
+              "RelativeToolTip": "SQL-DATABASE\\Controllers\\HelloWorldController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACQAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-13T17:15:54.611Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "WeatherForecastController.cs",
+              "DocumentMoniker": "C:\\Users\\gwcko\\OneDrive\\Desktop\\CS392\\mini-research\\christians-fragment\\SQL-DATABASE\\SQL-DATABASE\\Controllers\\WeatherForecastController.cs",
+              "RelativeDocumentMoniker": "SQL-DATABASE\\Controllers\\WeatherForecastController.cs",
+              "ToolTip": "C:\\Users\\gwcko\\OneDrive\\Desktop\\CS392\\mini-research\\christians-fragment\\SQL-DATABASE\\SQL-DATABASE\\Controllers\\WeatherForecastController.cs",
+              "RelativeToolTip": "SQL-DATABASE\\Controllers\\WeatherForecastController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-13T17:18:01.752Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "app.json",
+              "DocumentMoniker": "C:\\Users\\gwcko\\OneDrive\\Desktop\\CS392\\mini-research\\christians-fragment\\HelloWorldReactNative\\app.json",
+              "RelativeDocumentMoniker": "..\\HelloWorldReactNative\\app.json",
+              "ToolTip": "C:\\Users\\gwcko\\OneDrive\\Desktop\\CS392\\mini-research\\christians-fragment\\HelloWorldReactNative\\app.json",
+              "RelativeToolTip": "..\\HelloWorldReactNative\\app.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-04-13T17:27:28.483Z"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,83 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\gwcko\\OneDrive\\Desktop\\CS392\\mini-research\\christians-fragment\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\gwcko\\OneDrive\\Desktop\\CS392\\mini-research\\christians-fragment\\HelloWorldReactNative\\components\\Scan.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:HelloWorldReactNative\\components\\Scan.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\gwcko\\OneDrive\\Desktop\\CS392\\mini-research\\christians-fragment\\HelloWorldReactNative\\components\\Chat.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:HelloWorldReactNative\\components\\Chat.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\gwcko\\OneDrive\\Desktop\\CS392\\mini-research\\christians-fragment\\HelloWorldReactNative\\App.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:HelloWorldReactNative\\App.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "App.tsx",
+              "DocumentMoniker": "C:\\Users\\gwcko\\OneDrive\\Desktop\\CS392\\mini-research\\christians-fragment\\HelloWorldReactNative\\App.tsx",
+              "RelativeDocumentMoniker": "HelloWorldReactNative\\App.tsx",
+              "ToolTip": "C:\\Users\\gwcko\\OneDrive\\Desktop\\CS392\\mini-research\\christians-fragment\\HelloWorldReactNative\\App.tsx",
+              "RelativeToolTip": "HelloWorldReactNative\\App.tsx",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2024-04-13T17:13:53.364Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Chat.tsx",
+              "DocumentMoniker": "C:\\Users\\gwcko\\OneDrive\\Desktop\\CS392\\mini-research\\christians-fragment\\HelloWorldReactNative\\components\\Chat.tsx",
+              "RelativeDocumentMoniker": "HelloWorldReactNative\\components\\Chat.tsx",
+              "ToolTip": "C:\\Users\\gwcko\\OneDrive\\Desktop\\CS392\\mini-research\\christians-fragment\\HelloWorldReactNative\\components\\Chat.tsx",
+              "RelativeToolTip": "HelloWorldReactNative\\components\\Chat.tsx",
+              "ViewState": "AQIAABUAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2024-04-13T17:12:58.684Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Scan.tsx",
+              "DocumentMoniker": "C:\\Users\\gwcko\\OneDrive\\Desktop\\CS392\\mini-research\\christians-fragment\\HelloWorldReactNative\\components\\Scan.tsx",
+              "RelativeDocumentMoniker": "HelloWorldReactNative\\components\\Scan.tsx",
+              "ToolTip": "C:\\Users\\gwcko\\OneDrive\\Desktop\\CS392\\mini-research\\christians-fragment\\HelloWorldReactNative\\components\\Scan.tsx",
+              "RelativeToolTip": "HelloWorldReactNative\\components\\Scan.tsx",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2024-04-13T17:12:32.017Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

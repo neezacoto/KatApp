@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "6OpFWgQ9LBOs7TqCf02S59nKXpeczXR3VJ8vZ5MSzCU=",
+  "Source": "SQL-DATABASE",
+  "BasePath": "_content/SQL-DATABASE",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
