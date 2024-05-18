@@ -2,8 +2,6 @@
 
 ![kattappbanner](https://github.com/neezacoto/KatApp/assets/74576449/4aafd326-c420-4693-940c-3a712ab5e435)
 
-## DEMO
-https://github.com/neezacoto/KatApp/assets/74576449/d2acd532-19fb-4449-9424-5faaecde9e9d
 
 
 
@@ -22,6 +20,10 @@ KatApp addresses these challenges by:
 - Offering information on best-selling products from Amazon.
 - Keeping a record of all scanned QR codes and related data.
 - Facilitating conversations about cat health through an AI assistant.
+
+## DEMO
+https://github.com/neezacoto/KatApp/assets/74576449/d2acd532-19fb-4449-9424-5faaecde9e9d
+
 
 ## Team
 
